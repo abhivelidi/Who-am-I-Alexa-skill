@@ -1,0 +1,17 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "Alexa project - Who am i?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "ask-sdk-core": "^2.0.4",
+    "aws-sdk": "^2.238.1",
+    "es6-promisify": "^6.0.0"
+  }
+}
