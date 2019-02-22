@@ -4,6 +4,8 @@ Who Am I? is a charades-based game that requires the player to correctly identif
 This is how it works! For every new game , a celebrity is selected at random from the DynamoDB database which also holds information associated with the celebrity. Using this information retrieved from database, clues are formed for user to guess from and responses/answers from user are validated as well. 
 The data is currently obtained by scraping the Wikipedia pages of the respective celebrities which can always be further populated with information such as their most famous works, their awards or their quotes.
 
+You can view the demo of the application here: https://drive.google.com/open?id=1sRFGR3Pz6TuK-ch7rvGCsZnoMY_POfDV
+
 Future Scope: Here are the different ways in which this game can be further enhanced.
 
 * Genre based: This allows the user to select a class/category such as “Actors”, “Writers” or “Chefs” from which the celebrity has to be guessed allowing the user to select their field of interest or knowledge.
